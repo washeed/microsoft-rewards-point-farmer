@@ -1,6 +1,4 @@
-Certainly! Here's a description you can use for your README file:
 
----
 
 # Automated Search Script with PyAutoGUI
 
